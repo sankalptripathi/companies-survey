@@ -7,6 +7,6 @@ const Tabs = (e) => {
             <Tab eventKey="home" title="Home">
                 <Sonnet />
             </Tab>
-        </Tabs>
+        </Tabs> 
             )
 }
