@@ -1,0 +1,144 @@
+{
+  "data": {
+    "companies": [
+      {
+        "name": "Apple",
+        "roles": [
+          1,
+          2,
+          3
+        ],
+        "description": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services.",
+        "link": "http://www.apple.com",
+        "promoters": [
+          2,
+          3
+        ],
+        "steps": [
+          {
+            "What phone do you have?": [
+              "iPhone 11",
+              "iPhone 12",
+              "iPhone 10",
+              "iPhone 8"
+            ]
+          },
+          {
+            "What are you?": [
+              "College",
+              "Working",
+              "School",
+              "Senior Citizen"
+            ]
+          },
+          {
+            "How long have you been associated with us?": [
+              "2 years",
+              "5 years",
+              "10 years",
+              "20 years"
+            ]
+          },
+          {
+            "Are you happy with our service?": [
+              "Yes",
+              "No"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bose",
+        "roles": [
+          3
+        ],
+        "description": "Bose Corporation is an American manufacturing company that predominantly sells audio equipment. The company was established by Amar Bose in 1964 and is based in Framingham, Massachusetts.",
+        "link": "http://www.bose.com",
+        "promoters": false
+      },
+      {
+        "name": "Sony",
+        "roles": [
+          1,
+          3
+        ],
+        "description": "Sony Corporation is a Japanese multinational conglomerate corporation headquartered in Kōnan, Minato, Tokyo.",
+        "link": "http://www.sony.com",
+        "promoters": [
+          1,
+          3
+        ],
+        "steps": [
+          {
+            "What music do you like?": [
+              "Retro",
+              "Old",
+              "Classical",
+              "Pop"
+            ]
+          },
+          {
+            "How long have you been associated with us?": [
+              "2 years",
+              "5 years",
+              "10 years",
+              "20 years"
+            ]
+          },
+          {
+            "Are you happy with our service?": [
+              "Yes",
+              "No"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Microsoft",
+        "roles": [
+          2
+        ],
+        "description": "Microsoft Corporation is an American multinational technology company with headquarters in Redmond, Washington. It develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services.",
+        "link": "http://www.microsoft.com",
+        "promotions": false
+      }
+    ],
+    "roles": [
+      {
+        "id": 1,
+        "name": "Mobile"
+      },
+      {
+        "id": 2,
+        "name": "Computers"
+      },
+      {
+        "id": 3,
+        "name": "Music"
+      }
+    ],
+    "promoters": [
+      {
+        "id": 1,
+        "name": "Zee Media",
+        "phone": "939583532",
+        "email": "zee@zee.com",
+        "address": "Lajpath Nagar, New Delhi"
+      },
+      {
+        "id": 2,
+        "name": "Hungama",
+        "phone": "853039553",
+        "email": "hungama@hungama.com",
+        "address": "Lal Chowk, New Delhi"
+      },
+      {
+        "id": 3,
+        "name": "Times of India",
+        "phone": "784394305",
+        "email": "timesofindia@toi.com",
+        "address": "Connaught place, New Delhi"
+      }
+    ]
+  }
+}
